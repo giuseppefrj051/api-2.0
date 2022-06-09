@@ -1,0 +1,18 @@
+{
+  "name": "api-test-2",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit1"
+  },
+  "author": "Giuseppe Richiusa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "git-clone": "^0.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
